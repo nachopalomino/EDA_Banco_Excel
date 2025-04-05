@@ -122,21 +122,21 @@ A continuación, se resumen las principales conclusiones obtenidas a través del
 
 2. **Segmentación de clientes por perfil de riesgo:**
 
-Utilizando la variable Credit Score, se puede ver una clara distinción entre los clientes con alto riesgo de abandono y los que tienen alto puntaje crediticio, lo que sugiere que los clientes con buen historial crediticio son más leales al banco.
+- Utilizando la variable Credit Score, se puede ver una clara distinción entre los clientes con alto riesgo de abandono y los que tienen alto puntaje crediticio, lo que sugiere que los clientes con buen historial crediticio son más leales al banco.
 
-A través del segmento de edad, se observó que los clientes más jóvenes tienen una mayor tasa de abandono, mientras que aquellos en rango de 40 a 60 años son más propensos a permanecer.
+- A través del segmento de edad, se observó que los clientes más jóvenes tienen una mayor tasa de abandono, mientras que aquellos en rango de 40 a 60 años son más propensos a permanecer.
 
 3. **Análisis por país:**
 
-El país de residencia muestra diferencias notables en los patrones de abandono. En particular, los clientes de España tienen una tasa de abandono más alta en comparación con Francia y Alemania.
+- El país de residencia muestra diferencias notables en los patrones de abandono. En particular, los clientes de España tienen una tasa de abandono más alta en comparación con Francia y Alemania.
 
-Este hallazgo sugiere que las estrategias de retención deberían personalizarse por región, considerando los comportamientos culturales y económicos específicos.
+- Este hallazgo sugiere que las estrategias de retención deberían personalizarse por región, considerando los comportamientos culturales y económicos específicos.
 
 4. **Impacto de la relación con el banco:**
 
-El dashboard visualizó que los clientes con menos productos o sin tarjeta de crédito son mucho más propensos a abandonar el banco.
+- El dashboard muestra que los clientes con menos productos o sin tarjeta de crédito son mucho más propensos a abandonar el banco.
 
-Además, se pudo identificar que los clientes activos (aquellos que interactúan más con el banco) tienen una menor tasa de abandono, lo que destaca la importancia de mantener a los clientes comprometidos con productos adicionales.
+- Además, se pudo identificar que los clientes activos (aquellos que interactúan más con el banco) tienen una menor tasa de abandono, lo que destaca la importancia de mantener a los clientes comprometidos con productos adicionales.
 
 ## 🚀 7. Próximos Pasos Basados en el Dashboard
 
