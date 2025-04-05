@@ -36,11 +36,16 @@ A través de este Dashboard, la dirección podrá:
 
 ##  3. Estructura del Repositorio
 ```bash
-|------ data
-  |---- Churn_Modelling.csv  #Datos originales
 |------ Excels
+|       |---- Proyecto_Santander.xlsx
+|
+|------ data
+|       |---- Churn_Modelling.csv  # Datos originales
+|       |---- datos_transformados.csv
+|
+|------ .gitignore
+|------ README.md
 ```
-
 
 ## 📊 4. Descripción del Conjunto de Datos
 
