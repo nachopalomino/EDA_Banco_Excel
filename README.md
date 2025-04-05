@@ -110,22 +110,47 @@ A continuación, se detallan las conclusiones sobre el análisis descriptivo de 
 - **Productos**: La distribución del número de productos muestra una **ligera asimetría positiva**. La mayoría de los clientes tienen un número moderado de productos, pero hay una cola extendida hacia valores más altos, indicando que un grupo significativo posee una cantidad considerablemente mayor de productos. La distribución es **leptocúrtica**, lo que sugiere una mayor concentración de datos alrededor de la media y una dispersión moderada. En general, los datos reflejan que, aunque la mayoría de los clientes tienen un número relativamente bajo de productos, existe un segmento con una cantidad mucho más alta.
 - **Salario**: La distribución de los salarios muestra una **ligera asimetría positiva**. La mayoría de los empleados tienen salarios más bajos, pero existe una cola extendida hacia valores más altos, indicando que un grupo significativo tiene salarios considerablemente más elevados. La distribución es **leptocúrtica**, lo que sugiere una mayor concentración de datos alrededor de la media y una dispersión moderada. En general, los datos reflejan que, aunque la mayoría de los empleados tienen salarios relativamente bajos, hay un segmento con salarios mucho más altos.
 
+## 💡 6. Conclusiones del Dashboard Interactivo
 
-## 🚀 6. Próximos Pasos
+A continuación, se resumen las principales conclusiones obtenidas a través del análisis visual interactivo en el dashboard desarrollado para este proyecto:
 
-Para optimizar la retención y fidelización de clientes, se seguirán estos pasos clave:
+1. **Clientes propensos al abandono:**
 
-#### 1️⃣ Recepción de los datos completos 📥
+- Se identificaron patrones claros entre los clientes con bajo número de productos contratados y los que tienen un bajo saldo en cuenta. Estos grupos son más propensos a abandonar el banco.
 
-Verificación de integridad y estructura de la información.
+- El análisis visual mostró que los clientes inactivos (aquellos con baja frecuencia de uso de sus cuentas) también tienen un mayor riesgo de abandono.
 
-#### 2️⃣ Análisis Exploratorio de Datos (EDA) 🔍
+2. **Segmentación de clientes por perfil de riesgo:**
 
-Identificación de patrones, relaciones entre variables y detección de datos atípicos.
+Utilizando la variable Credit Score, se puede ver una clara distinción entre los clientes con alto riesgo de abandono y los que tienen alto puntaje crediticio, lo que sugiere que los clientes con buen historial crediticio son más leales al banco.
 
-#### 3️⃣ Diseño de Dashboards en Excel 📊
+A través del segmento de edad, se observó que los clientes más jóvenes tienen una mayor tasa de abandono, mientras que aquellos en rango de 40 a 60 años son más propensos a permanecer.
 
-Creación de visualizaciones interactivas con KPIs clave.
+3. **Análisis por país:**
+
+El país de residencia muestra diferencias notables en los patrones de abandono. En particular, los clientes de España tienen una tasa de abandono más alta en comparación con Francia y Alemania.
+
+Este hallazgo sugiere que las estrategias de retención deberían personalizarse por región, considerando los comportamientos culturales y económicos específicos.
+
+4. **Impacto de la relación con el banco:**
+
+El dashboard visualizó que los clientes con menos productos o sin tarjeta de crédito son mucho más propensos a abandonar el banco.
+
+Además, se pudo identificar que los clientes activos (aquellos que interactúan más con el banco) tienen una menor tasa de abandono, lo que destaca la importancia de mantener a los clientes comprometidos con productos adicionales.
+
+## 🚀 7. Próximos Pasos Basados en el Dashboard
+
+#### 1️⃣ **Segmentar estrategias de fidelización**: 
+
+A partir del análisis de perfiles de clientes, se recomienda segmentar a los clientes según su riesgo de abandono y diseñar **estrategias personalizadas** de fidelización.
+
+#### 2️⃣ **Reforzar la oferta de productos**: 
+
+La correlación entre la **cantidad de productos** y la retención sugiere que aumentar la **oferta de productos** podría ayudar a reducir la tasa de abandono.
+
+#### 3️⃣ **Iniciativas regionales**: 
+
+Se debe tomar en cuenta la diferencia de abandono por país y ajustar las estrategias de marketing y retención según los datos geográficos.
 
 #### 4️⃣ Presentación de Resultados 📢
 
